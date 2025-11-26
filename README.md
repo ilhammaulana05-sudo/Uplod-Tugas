@@ -1,2 +1,3 @@
 # Upload-Tugas
-tugas Pbo
+Nama : Ilham Maulana Kusuma
+Nim : 2401010004
